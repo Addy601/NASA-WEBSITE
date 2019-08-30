@@ -1,0 +1,24 @@
+body {
+	background-image: url("yas.jpg");
+	}
+	a:link,a:visited {
+  color: white ;
+  padding: 14px 25px;
+  text-align: center; 
+  text-decoration: none;
+  display: inline-block;
+	opacity:0.5;}
+  a:hover, a:active {
+  background-color: black;
+}
+div.background, h1 ,br{
+  background-color: dark grey;
+  color: white;
+  font: 25px arial, sans-serif;
+  
+}
+image{
+border: 5px }
+p{ padding-left:300px; padding-right:300px;}
+
+
